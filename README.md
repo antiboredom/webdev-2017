@@ -8,11 +8,10 @@
     Spring 2017 • Mondays & Wednesdays • 4:30-6:20PM
     Office hours by appointment or directly before class
 
-#### Slack: [https://webdev2017.slack.com](https://webdev2017.slack.com)
+#### Slack: [webdev2017.slack.com](https://webdev2017.slack.com)
 
-#### GitHub/Syllabus: [http://github.com/antiboredom/dm2193b](http://github.com/antiboredom/dm2193b)
+#### GitHub/Syllabus: [github.com/antiboredom/dm2193b](http://github.com/antiboredom/dm2193b)
 
-#### Schedule: [http://github.com/antiboredom/dm2193b/blob/master/schedule.md](http://github.com/antiboredom/dm2193b/blob/master/schedule.md)
+#### Schedule: [github.com/antiboredom/dm2193b/blob/master/schedule.md](http://github.com/antiboredom/dm2193b/blob/master/schedule.md)
 
-
-#### Readings: [http://github.com/antiboredom/dm2193b/blob/master/readings.md](http://github.com/antiboredom/dm2193b/blob/master/readings.md)
+#### Readings: [github.com/antiboredom/dm2193b/blob/master/readings.md](http://github.com/antiboredom/dm2193b/blob/master/readings.md)
