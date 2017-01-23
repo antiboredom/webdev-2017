@@ -50,9 +50,9 @@ By the end of this course, student will be able to
 
 All dates and assignments are **subject to change** at the discretion of the professor, depending on the interests and pace of the class. Any changes will be announced in class, updated on the Syllabus, and posted to Slack (discussion forum).
 
-### [READINGS](http://github.com/antiboredom/dm2193b/blob/master/readings.md)
+### [READINGS](http://github.com/antiboredom/webdev-2017/blob/master/readings.md)
 
-Weekly reading assignments will utilize free online resources and tutorials. There is no required textbook. However, recommendations can be found in the [Readings & Resources](http://github.com/antiboredom/dm2193b/blob/master/readings.md) section, and students are encouraged to pursue self-guided learning and document / share resources via Learning Logs.
+Weekly reading assignments will utilize free online resources and tutorials. There is no required textbook. However, recommendations can be found in the [Readings & Resources](http://github.com/antiboredom/webdev-2017/blob/master/readings.md) section, and students are encouraged to pursue self-guided learning and document / share resources via Learning Logs.
 
 
 ## EVALUATION & GRADING
@@ -138,4 +138,4 @@ If you are student with a disability who is requesting accommodations, please co
         * [Siteground](https://www.siteground.com/)
         * [Dreamhost](https://www.dreamhost.com/promo/edunyu/)
 
-### [COURSE SCHEDULE](http://github.com/antiboredom/dm2193b/blob/master/schedule.md)
+### [COURSE SCHEDULE](http://github.com/antiboredom/webdev-2017/blob/master/schedule.md)

@@ -9,7 +9,7 @@
 
 ### Homework:
 * Sign up for slack at [webdev2017.slack.com](http://webdev2017.slack.com)
-* [Ticket to leave](https://github.com/antiboredom/dm2193b/blob/master/ttl.md) (at the end of every class)
+* [Ticket to leave](https://github.com/antiboredom/webdev-2017/blob/master/ttl.md) (at the end of every class)
 * Sign up for GitHub ([Student Developer Pack](https://education.github.com/pack))
 * Download a text editor of your choice. I recommend Sublime Text or Atom.
 * What's your favorite website? What's your least favorite website? Why?

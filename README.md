@@ -10,8 +10,8 @@
 
 #### Slack: [webdev2017.slack.com](https://webdev2017.slack.com)
 
-#### Syllabus: [github.com/antiboredom/dm2193b/blob/master/syllabus.md](http://github.com/antiboredom/dm2193b/blob/master/syllabus.md)
+#### Syllabus: [github.com/antiboredom/webdev-2017/blob/master/syllabus.md](http://github.com/antiboredom/webdev-2017/blob/master/syllabus.md)
 
-#### Schedule: [github.com/antiboredom/dm2193b/blob/master/schedule.md](http://github.com/antiboredom/dm2193b/blob/master/schedule.md)
+#### Schedule: [github.com/antiboredom/webdev-2017/blob/master/schedule.md](http://github.com/antiboredom/webdev-2017/blob/master/schedule.md)
 
-#### Readings: [github.com/antiboredom/dm2193b/blob/master/readings.md](http://github.com/antiboredom/dm2193b/blob/master/readings.md)
+#### Readings: [github.com/antiboredom/webdev-2017/blob/master/readings.md](http://github.com/antiboredom/webdev-2017/blob/master/readings.md)
