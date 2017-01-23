@@ -12,7 +12,7 @@
 
 #### GitHub/Syllabus: [http://github.com/antiboredom/dm2193b](http://github.com/antiboredom/dm2193b)
 
-#### Schedule: [http://github.com/antiboredom/dm2193b/schedule.md](http://github.com/antiboredom/dm2193b/schedule.md)
+#### Schedule: [http://github.com/antiboredom/dm2193b/blob/master/schedule.md](http://github.com/antiboredom/dm2193b/blob/master/schedule.md)
 
 
-#### Readings: [http://github.com/antiboredom/dm2193b/readings.md](http://github.com/antiboredom/dm2193b/readmins.md)
+#### Readings: [http://github.com/antiboredom/dm2193b/blob/master/readings.md](http://github.com/antiboredom/dm2193b/blob/master/readings.md)

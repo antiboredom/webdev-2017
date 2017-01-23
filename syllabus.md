@@ -42,7 +42,7 @@ By the end of this course, student will be able to
 
 **Weekly homework** will consist of readings and online tutorials, blog posts, and projects that students will present to the class.
 
-**Non-weekly assignments** include [(Show & Tell)](https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/assignments/show_and_tells.html), [Midterm](https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/assignments/assignments.html#Midterm) and [Final](https://therewasaguy.gitbooks.io/nyu-dm-webdev-spring2016-b/content/assignments/assignments.html#Final).
+**Non-weekly assignments** include [(Show & Tell)](), [Midterm]() and [Final]().
 
 **Critiques** will follow every presentation, with longer critiques for the midterm and final. Critiques (crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
@@ -50,9 +50,9 @@ By the end of this course, student will be able to
 
 All dates and assignments are **subject to change** at the discretion of the professor, depending on the interests and pace of the class. Any changes will be announced in class, updated on the Syllabus, and posted to Slack (discussion forum).
 
-### [READINGS](readings.md)
+### [READINGS](http://github.com/antiboredom/dm2193b/blob/master/readings.md)
 
-Weekly reading assignments will utilize free online resources and tutorials. There is no required textbook. However, recommendations can be found in the [Readings & Resources](readings.md) section, and students are encouraged to pursue self-guided learning and document / share resources via Learning Logs.
+Weekly reading assignments will utilize free online resources and tutorials. There is no required textbook. However, recommendations can be found in the [Readings & Resources](http://github.com/antiboredom/dm2193b/blob/master/readings.md) section, and students are encouraged to pursue self-guided learning and document / share resources via Learning Logs.
 
 
 ## EVALUATION & GRADING
@@ -138,4 +138,4 @@ If you are student with a disability who is requesting accommodations, please co
         * [Siteground](https://www.siteground.com/)
         * [Dreamhost](https://www.dreamhost.com/promo/edunyu/)
 
-### [COURSE SCHEDULE](schedule.md)
+### [COURSE SCHEDULE](http://github.com/antiboredom/dm2193b/blob/master/schedule.md)
