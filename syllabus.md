@@ -22,7 +22,7 @@ This course will help students understand:
 * The Web Design process including Information Design and Visual Design
 * Responsive web design
 * Front-end frameworks (Bootstrap, Foundation)
-* JavaScript libraries (JQuery, p5.js)
+* JavaScript libraries (JQuery, vue.js)
 * How to develop and learn through iteration. The cycle includes research, sketching, prototyping, debugging, testing, feedback and reflection.
 * How to design, build, and launch professional-quality websites
 * How to use the web proactively to build upon the foundations of this course
@@ -42,7 +42,7 @@ By the end of this course, student will be able to
 
 **Weekly homework** will consist of readings and online tutorials, blog posts, and projects that students will present to the class.
 
-**Non-weekly assignments** include [(Show & Tell)](), [Midterm]() and [Final]().
+**Non-weekly assignments** include Show & Tell, Midterm and Final.
 
 **Critiques** will follow every presentation, with longer critiques for the midterm and final. Critiques (crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
