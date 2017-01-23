@@ -10,7 +10,7 @@
 
 #### Slack: [webdev2017.slack.com](https://webdev2017.slack.com)
 
-#### GitHub/Syllabus: [github.com/antiboredom/dm2193b](http://github.com/antiboredom/dm2193b)
+#### Syllabus: [github.com/antiboredom/dm2193b/blob/master/syllabus.md](http://github.com/antiboredom/dm2193b/blob/master/syllabus.md)
 
 #### Schedule: [github.com/antiboredom/dm2193b/blob/master/schedule.md](http://github.com/antiboredom/dm2193b/blob/master/schedule.md)
 
