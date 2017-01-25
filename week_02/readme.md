@@ -19,6 +19,9 @@
 	* Indentation & formatting
 * Using a text editor
 * Intro to FTP
+* Multiple pages & paths
+* Relative and absolute urls
+
 		
 
 ## Homework
