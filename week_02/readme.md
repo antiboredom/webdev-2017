@@ -23,7 +23,7 @@
 
 ## Homework
 
-* Create a simple web page with:
+* Create a simple web page about a topic of your choosing. You should include:
 	* Your name
 	* An image
 	* A list
