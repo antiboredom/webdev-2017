@@ -1,0 +1,33 @@
+body {
+  color: lightblue;
+  background-color: red;
+  font-family: Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+img {
+  width: 100%;
+}
+
+hr {
+  border-color: black;
+}
+
+p {
+  color: green;
+  margin: 20px;
+}
+
+h1 {
+  background-color: purple;
+  font-size: 6px;
+}
+
+h2 {
+  border: 5px dotted orange;
+}
+
+
+
+
+
