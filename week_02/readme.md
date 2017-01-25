@@ -19,11 +19,14 @@
 	* Indentation & formatting
 * Using a text editor
 * Intro to FTP
+* Multiple pages & paths
+* Relative and absolute urls
+
 		
 
 ## Homework
 
-* Create a simple web page with:
+* Create a simple web page about a topic of your choosing. You should include:
 	* Your name
 	* An image
 	* A list
