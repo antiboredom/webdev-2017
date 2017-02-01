@@ -46,4 +46,42 @@
 * Read:
 	* HTML & CSS Chapter 5 (Images) and Chapter 10 (introducing CSS)
 
+----
+
+# Feb 1
+
+* Intro to element inspector
+* Wireframes
+	* show the layout and organization of the page
+	* information hierarchy 
+	* make them on paper, in photoshop, in illustrator, in sketch, or using a tool like moqups.com
+* Semantic tags
+	* header: a header for a document or section, contains introductory content
+	* nav: navigation links
+	* section: a thematic grouping of content, typically with a heading.
+	* article: self-contained content, like a blog post or newspaper article
+	* aside: a sidebar
+	* footer: the footer section - could contain copyright info, contact info, terms of use
+* Margins and padding
+* display
+	* block vs inline
+	* none
+* floats
+	* clearing floats
+* positioning:
+	* static (default)
+	* relative
+	* fixed
+	* absolute
+
+
+## Homework
+* Finish your choose your own adventure game
+* Make a wireframe for a site of your choosing:
+	* Newspaper
+	* Portfolio site
+	* Store
+	* ????
+* Read:
+	* HTML & CSS Chapter 13 (Boxes) and Chapter 15 (Layout)
 
