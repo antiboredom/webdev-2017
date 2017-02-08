@@ -11,3 +11,22 @@
 * Read:
 	* HTML & CSS Chapter 18 (Process & Design)
 
+****
+
+# Feb 8
+* Review homework
+* Review positioning:
+	* Static
+	* Fixed
+	* Absolute
+	* Relative
+* Using multiple stylesheets
+* CSS frameworks & grid systems
+	* 960
+		* Create a ```.container``` element
+		* Then put elements with classes like ```.grid_8``` inside
+	* skeleton
+	* bootstrap
+	* pure
+	* foundation
+* Custom fonts
