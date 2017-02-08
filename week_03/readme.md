@@ -22,11 +22,13 @@
 	* Relative
 * Using multiple stylesheets
 * CSS frameworks & grid systems
-	* 960
+	* [960](http://960.gs/)
 		* Create a ```.container``` element
 		* Then put elements with classes like ```.grid_8``` inside
-	* skeleton
-	* bootstrap
-	* pure
-	* foundation
+	* [skeleton](http://getskeleton.com/)
+	* [bootstrap](http://getbootstrap.com/)
+	* [pure](https://purecss.io/)
+	* [foundation](http://foundation.zurb.com/)
 * Custom fonts
+	* [google fonts](https://fonts.google.com/)
+	* [use your own](https://www.fontsquirrel.com/tools/webfont-generator)
