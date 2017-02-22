@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style>
+    body {
+      background-color: #000000;
+    }
+  </style>
+</head>
+<body>
+
+
+<div id="container"></div>
+
+<script>
+function typeIt(e) {
+  if (e.key == 'Enter') {
+    var br = document.createElement('br');
+    document.body.appendChild(br);
+  } else {
+    var span = document.createElement('span');
+    var fontSize = Math.random() * 40 + 10;
+    span.style.fontSize = fontSize + 'px';
+
+    var hue = Math.random()*100;
+    var color = 'hsl('+ hue +', 100%, 50%)';
+    span.style.color = color;
+
+    span.innerHTML = e.key;
+
+    document.body.appendChild(span);
+  }
+}
+document.body.addEventListener('keydown', typeIt)
+
+</script>
+</body>
+</html>
