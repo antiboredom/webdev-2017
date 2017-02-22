@@ -2,9 +2,13 @@
 
 * The DOM
 	* Every element on a page is also a javascript object
-		* Objects can have properties 
+		* Objects can have properties
+			* window.innerWidth
 		* Events
+			* window.onload
+			* window.onclick
 		* Methods/functions
+			* document.write()
 	* getElementById
 	* getElementsByTagName
 	* querySelector

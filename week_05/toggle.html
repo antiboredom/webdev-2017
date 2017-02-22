@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style>
+    .hide {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+
+<button id="clicker">Click me</button>
+
+<div id="toggler" class="hide">Hello</div>
+
+<script>
+var button = document.querySelector('#clicker');
+var toggler = document.querySelector('#toggler');
+
+function toggleVisibility() {
+  toggler.classList.toggle('hide');
+}
+
+button.addEventListener('click', toggleVisibility);
+</script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style>
+
+  #container {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    background-color: #fff;
+  }
+
+  .blue {
+    background-color: blue;
+  }
+
+  </style>
+</head>
+<body>
+
+
+<div id="container"></div>
+
+<script>
+var container = document.querySelector('#container');
+
+function mouseIn(e) {
+  container.innerHTML = 'the mouse is over me';
+  document.body.classList.toggle('blue')
+}
+
+function mouseOut(e) {
+  container.innerHTML = 'the mouse left';
+  document.body.classList.toggle('blue')
+}
+
+container.addEventListener('mouseover', mouseIn);
+container.addEventListener('mouseout', mouseOut);
+
+</script>
+</body>
+</html>

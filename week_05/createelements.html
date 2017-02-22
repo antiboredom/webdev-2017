@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style>
+    .thingy {
+      width: 100px;
+      height: 100px;
+      border: 1px solid red;
+      position: absolute;
+    }
+    .thingy:hover {
+      background-color: blue;
+    }
+  </style>
+</head>
+<body>
+
+
+<script>
+for (var i = 0; i < 100; i ++) {
+  var div = document.createElement('div');
+  div.classList.add('thingy');
+  div.style.top = i*10 + 'px';
+  div.style.left = i*10 + 'px';
+
+  document.body.appendChild(div);
+}
+</script>
+</body>
+</html>

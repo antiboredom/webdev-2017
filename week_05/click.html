@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+
+<button id="clicker">Click me</button>
+
+<div id="container"></div>
+
+<script>
+function createParagraph() {
+  var p = document.createElement('p');
+  p.innerHTML = 'hello!';
+
+  var container = document.getElementById('container');
+  container.appendChild(p);
+}
+
+document.getElementById('clicker').addEventListener('click', createParagraph)
+
+</script>
+</body>
+</html>
