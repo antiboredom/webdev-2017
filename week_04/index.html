@@ -1,0 +1,42 @@
+<html>
+
+  <head>
+    <style>
+      #hidden-div {
+        display: none;
+      }
+    </style>
+  </head>
+
+  <body>
+    
+
+    <button id="my-button">CLick me!</button>
+
+    <div id="event-log">
+
+    </div>
+
+    <div id="hidden-div">
+      I'm a secret div
+    </div>
+
+  <script>
+
+    function handleClick(event) {
+      document.querySelector('#hidden-div').style.display = 'block';
+    }
+
+    function handleMouseOver(event) {
+      console.log(event);
+      var p = document.createElement('p');
+      p.textContent = 'You moused over the button';
+      document.querySelector('#event-log').appendChild(p);
+    }
+
+    document.querySelector('#my-button').addEventListener('click', handleClick);
+    document.querySelector('#my-button').addEventListener('mouseover', handleMouseOver);
+
+  </script>
+  </body>
+</html>
