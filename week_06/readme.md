@@ -25,7 +25,35 @@
 * button
 	* button vs submit
 * selecting via attributes
+* using skeleton
+* making a form interactive
 	
 ## Homework
 * create a simple interactive form
+
+-----
+
+#Mar 1
+* JQuery
+	* installing
+		* cdn vs download
+	* selecting elements
+		* JQuery vs $
+	* $(document).ready()
+	* creating elements
+		* $('<p>hello</p>')
+	* append() and prepend()
+	* chaining
+	* events
+		* click()
+		* on('click')
+	* manipulating
+		* html()
+		* attr()
+		* width()
+	* effects
+		* hide()
+		* show()
+		* fadeIn()
+		* animate()
 

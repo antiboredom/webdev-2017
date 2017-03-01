@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style>
+    input[type="text"], input[type="email"], input[type="password"], textarea {
+      width: 200px;
+      vertical-align: top;
+      border: 1px solid #999;
+      padding: 3px;
+    }
+    label {
+      width: 100px;
+      display: inline-block;
+      text-align: right;
+    }
+    form div {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <form action="#" id="the-form" method="post">
+    <div>
+      <label for="text-field">Text</label> <input type="text" id="text-field">
+    </div>
+
+    <div>
+      <label for="email-field">Email</label> <input type="email" id="email-field">
+    </div>
+
+    <div>
+      <label for="pass-field">Password</label> <input type="password" id="pass-field">
+    </div>
+
+    <div>
+      <label for="checkbox-one">Checkboxes</label>
+      <input type="checkbox" id="checkbox-one">
+    </div>
+
+    <div>
+      <label for="number-field">Number</label> <input type="number" id="number-field">
+    </div>
+
+    <div>
+      <label for="textarea-field">Multiline Text</label>
+      <textarea id="textarea-field"></textarea>
+    </div>
+
+    <div>
+      <label for="select-field">Select</label>
+      <select id="select-field">
+        <option value="one">The first option</option>
+        <option value="two">The second option</option>
+        <option value="three">The third option</option>
+      </select>
+    </div>
+
+    <div>
+      <input type="submit" value="Submit">
+    </div>
+  </form>
+
+<script>
+var form = document.querySelector("#the-form");
+function submitHandler(event) {
+  event.preventDefault();
+  var textField = document.querySelector("#text-field").value
+  console.log(textField)
+}
+
+form.addEventListener('submit', submitHandler)
+</script>
+</body>
+</html>
