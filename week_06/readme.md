@@ -57,3 +57,12 @@
 		* fadeIn()
 		* animate()
 
+## Homework		
+* Miderm assignment: Make a web site that demonstrates your knowledge of at least 3 of the topics we've covered so far
+	* HTML elements
+	* CSS styling
+	* Interaction with javascript
+	* JQuery
+	* CSS layout frameworks (skeleton, 960gs)
+* The point of this assignment is simply to demonstrate your proficiency in these topics. It's NOT supposed to be a huge project or one that takes you a ton of time.
+
